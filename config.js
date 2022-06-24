@@ -5,18 +5,18 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6283845930691'] 
+global.mods = ['6283845930691'] 
+global.prems = ['6283845930691'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Zifabotz_offc1'
-global.numberowner = '6285828764046'
+global.nameowner = 'Ezex-bot01'
+global.numberowner = '6283845930691'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.dana = '083803595389'
+global.pulsa = '085656501947'
+global.gopay = '083845930691'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
